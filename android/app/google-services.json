@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "278763569311",
+    "firebase_url": "https://smart-boiler-7f6ad-default-rtdb.firebaseio.com",
+    "project_id": "smart-boiler-7f6ad",
+    "storage_bucket": "smart-boiler-7f6ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278763569311:android:64cdd75b49ddbe0f7aa2aa",
+        "android_client_info": {
+          "package_name": "com.erciyes.smartboiler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVERf5STCZlgBtkMwRBFy2WarIpkijVwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
