@@ -13,7 +13,20 @@
           "package_name": "com.erciyes.smartboiler"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "278763569311-a1klccfhfv9i7iv5hf07vqdlvvv2hfli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erciyes.smartboiler",
+            "certificate_hash": "5598dd6194f270c104139bfa5cc0cec18d10dac9"
+          }
+        },
+        {
+          "client_id": "278763569311-kgohh0e09jf6k1ob8r8ss3i15p7ksnja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyDVERf5STCZlgBtkMwRBFy2WarIpkijVwY"
@@ -21,7 +34,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278763569311-kgohh0e09jf6k1ob8r8ss3i15p7ksnja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
